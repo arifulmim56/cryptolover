@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://cryptolover.online/` + encodeURI(path as string)
+					`https://heartachegrabbedlaunching.com/g7bkdkqpq?key=1dc91aeff4340ebd2e9268002a0998ce`
 				}`,
 			},
 		};
